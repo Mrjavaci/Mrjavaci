@@ -72,11 +72,6 @@ Hi, I'm Osman, a Back-end Developer from Turkey.
 <br />
 <br />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrjavaci)  
-
-<br />
-<br />
-
 ![GitHub streak stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mrjavaci&layout=compact&theme=material-palenight)  
 
 <br />
