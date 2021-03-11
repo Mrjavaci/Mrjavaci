@@ -55,7 +55,11 @@ Hi, I'm Osman, a Back-end Developer from Turkey.
 	</ul>	
 </details>
 
+<br />
 
+<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" />
+
+<br />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -72,10 +76,6 @@ Hi, I'm Osman, a Back-end Developer from Turkey.
 <br />
 <br />
 
-![GitHub streak stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mrjavaci&layout=compact&theme=material-palenight)  
-
-<br />
-<br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mrjavaci&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
