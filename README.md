@@ -77,7 +77,7 @@ Hi, I'm Osman, a Back-end Developer from Turkey.
 <br />
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mrjavaci&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mrjavaci&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
