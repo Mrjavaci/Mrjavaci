@@ -30,30 +30,7 @@ Hi, I'm Osman, a Back-end Developer from Turkey.
 
 
 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-      <details> <summary>Server </summary>
-      <ul>
-      <li><b>OS:</b> Esxi 6.7 (VM's: Mikrotik, Centos 7, Ubuntu Server 20.04)</li>
-	    <li><b>CPU: </b> Xeon X5670 (DUAL)</li>
-  	  <li><b>RAM: </b> 48 GB</li>
-	    <li><b>Firewall:</b> Mikrotik Firewall & UFW & Iptables & CSF(Config Server Firewall).</li>
-      <li><b>Network: </b> 1Gbit/1Gbit </li>
-      </ul>
-      </details>
-      <details> <summary>Personel Computer </summary>
-      <ul>
-      <li><b>OS:</b>MacOs Big Sur</li>
-	    <li><b>Macbook Pro: </b> M1 Silicon</li>
-  	  <li><b>Ram : </b>8 GB</li>
-	    <li><b>Screen inch: </b> 13.3 inch</li>
-      </ul>
-      </details>
-	    <br />
-	</ul>	
-</details>
+
 
 <br />
 
