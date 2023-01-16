@@ -10,7 +10,7 @@ Hi, I'm Osman, a Back-end Developer from Turkey.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React Native, Java & Android, PHP, <br /> Node js, Mongodb, Javascript, Mysql etc.
+- 🛠 &nbsp; I’m currently working with PHP.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mrjavaci).
 - 💬 &nbsp; Ask me about anything [here](https://osmantahakiyicilar.com.tr)! I am happy to help.
